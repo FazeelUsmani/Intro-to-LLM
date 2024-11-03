@@ -2,6 +2,8 @@
 
 This document provides a structured overview of **Large Language Models (LLMs)**, ranging from introductory concepts to advanced topics. It is designed to serve as a roadmap for understanding, researching, and working with LLMs.
 
+https://llmagents-learning.org/f24
+
 ---
 
 ## 1. Introduction to Large Language Models
